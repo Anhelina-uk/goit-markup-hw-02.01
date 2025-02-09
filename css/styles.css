@@ -39,19 +39,19 @@ ul,ol{
 
 .navi{
     font-size: 16px;
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    font-weight: 500
 }
 
 .hero{
     background-color: #2e2f42;
+
 }
 
 .address{
     font-size: 16px;
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -82,16 +82,9 @@ ul,ol{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color:#4d5ae5;
 }
 
-.nav-link-web{
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    color: #4d5ae5;
-    line-height: 1.17
-}
 
 .nav-link-web-to{
     font-size: 18px;
@@ -103,47 +96,52 @@ ul,ol{
 
 .hero-button-text{
     font-size: 16px;
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
 }
  
 .benefits-heder{
+    font-weight: 500;
     font-size: 20px;
-    /* line-height: 24px; */
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .benefits-heder-text{
     font-size: 16px;
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
+.team{
+    background-color: #F4F4FD
+}
+
 .team-haeder{
     font-size: 36px;
     /* line-height: 40px; */
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;}
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
         
 
 .team-name{ 
     font-size: 20px;
-    /* line-height: 24px; */
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    font-weight: 500;
+    background-color: #FFFFFF;
 }
 
 .team-work{
     font-size: 16px;
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
@@ -156,17 +154,20 @@ ul,ol{
 .portfolio-header{
     font-size: 36px;
     /* line-height: 40px; */
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;
+    text-transform: capitalize;
+}
 
 .portfolio-img{
+    width: 360;
 }
 
 .portfolio-name{
     font-size: 20px;
-    /* line-height: 24px; */
+    font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -174,7 +175,6 @@ ul,ol{
 
 .portfolio-text{
     font-size: 16px;
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -182,7 +182,6 @@ ul,ol{
 
 .footer-text{
     font-size: 16px;
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
