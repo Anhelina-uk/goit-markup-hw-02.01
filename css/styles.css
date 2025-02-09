@@ -63,7 +63,7 @@ ul,ol{
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 
 .button-hero{
@@ -148,8 +148,7 @@ ul,ol{
     color: #434455;
 }
 
-.team-img{
-}
+
 
 .portfolio-header{
     font-size: 36px;
@@ -161,9 +160,7 @@ ul,ol{
     text-transform: capitalize;
 }
 
-.portfolio-img{
-    width: 360;
-}
+
 
 .portfolio-name{
     font-size: 20px;
@@ -187,3 +184,9 @@ ul,ol{
     color: #f4f4fd;
 }
 
+
+
+
+.litera{
+    background-color: #FFFFFF;
+}
